@@ -1,2 +1,3 @@
 # RainyDay
-Creating it in a rainy day
+Creating it on a rainy day
+Author: Sharp
